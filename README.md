@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Steps to follow:
+1. git clone https://github.com/miteshkamat27/react-analytics-boilerplate.git
+2. npm install
+3. npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
